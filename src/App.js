@@ -10,6 +10,7 @@ function App() {
         <p>
           Edit <code>420</code> and leave.
         </p>
+        <p>AYY LMAO</p>
         <p> Changing Code </p>
         <a
           className="App-link"
